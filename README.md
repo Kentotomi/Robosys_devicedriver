@@ -2,10 +2,10 @@
 ロボットシステム学課題1
 
 # DEMO
-##デモ動画
+## デモ動画
 https://youtu.be/nBa3PO-qXyA
-##回路
-![IMG_8974](https://user-images.githubusercontent.com/68839397/101142421-eca21800-3658-11eb-9dba-7a7e71e501b1.jpg)
+## 回路
+<img src="https://user-images.githubusercontent.com/68839397/101142421-eca21800-3658-11eb-9dba-7a7e71e501b1.jpg" width=50%>
 - LEDはアノードをGPIO25，カソードをGNDに接続する．
 # Features
 講義通りのコードでLEDを点灯させた．
