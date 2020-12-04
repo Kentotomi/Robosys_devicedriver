@@ -2,7 +2,7 @@
 ロボットシステム学課題1
 
 # DEMO
-デモ動画:
+デモ動画:https://youtu.be/nBa3PO-qXyA
 
 # Features
 講義通りのコードでLEDを点灯させた．
