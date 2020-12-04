@@ -17,7 +17,7 @@
 
 # Usage
 
-'''
+'''bash
 git clone https://github.com/Kentotomi/Robosys_devicedriver.git
 cd Robosys_devicedriver
 make
