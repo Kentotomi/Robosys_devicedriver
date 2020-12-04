@@ -8,10 +8,10 @@
 講義通りのコードでLEDを点灯させた．
 
 # Requirement
-##環境
+## 環境
 - OS: Ubuntu 20.04.1 LTS
 
-##道具
+## 道具
 - RaspberryPi 3 Model B
 - LED
 - ジャンパーピン * 3
