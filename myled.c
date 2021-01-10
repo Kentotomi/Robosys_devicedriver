@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 // /*
-//  * Copyright (C) 2020 KentoTomita + Ueda.  All rights reserved.
+//  * Copyright (C) 2020 Ueda.  All rights reserved.
 //   
 
 
